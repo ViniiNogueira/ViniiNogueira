@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:141E30,100:243B55&height=230&section=header&text=VIN%C3%8DCIUS%20NOGUEIRA&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SYSTEM%20ARCHITECT%20IN%20TRAINING&descAlignY=55&descSize=16&descColor=B026FF" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:111827,100:172554&height=230&section=header&text=VIN%C3%8DCIUS%20NOGUEIRA&fontSize=46&fontColor=60A5FA&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descAlignY=55&descSize=16&descColor=2DD4BF" width="100%">
 
 <br/>
 
