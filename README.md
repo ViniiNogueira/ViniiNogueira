@@ -130,7 +130,7 @@ vinicius@dev-machine:~$ _
 
 <br/>
 
-## COntato 
+## Contato 
 
 <div align="center">
 
