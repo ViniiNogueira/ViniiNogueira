@@ -13,8 +13,6 @@
   ============================================================
 -->
 
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:141E30,100:243B55&height=230&section=header&text=VIN%C3%8DCIUS%20NOGUEIRA&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=36&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SYSTEM%20ARCHITECT%20IN%20TRAINING&descAlignY=55&descSize=16&descColor=B026FF" width="100%">
@@ -131,69 +129,14 @@ vinicius@dev-machine:~$ _
 
 <br/>
 
-## `<` CONTRIBUTION SNAKE `/>`
+<br/>
+
+## REDES SOCIAIS 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ViniiNogueira/ViniiNogueira/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<details>
-<summary><strong>⚙️ Como ativar a animação da cobrinha (Snake) no seu perfil</strong></summary>
-
-<br/>
-
-A animação acima só aparece depois que você configurar uma **GitHub Action** no seu repositório `ViniiNogueira/ViniiNogueira`. Crie o arquivo `.github/workflows/snake.yml` com o conteúdo abaixo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Depois de rodar a Action uma vez, a branch `output` será criada automaticamente com o SVG — e a imagem acima passa a funcionar.
-
-</details>
-
-<br/>
-
-## `<` REDES SOCIAIS `/>`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117)](https://github.com/ViniiNogueira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0D1117)](https://linkedin.com/in/<SEU_LINKEDIN>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0D1117)](mailto:<SEU_EMAIL>)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00F5FF&labelColor=0D1117)](https://instagram.com/<SEU_INSTAGRAM>)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00F5FF&labelColor=0D1117)](https://discord.com/users/<SEU_DISCORD>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0D1117)](https://www.linkedin.com/in/vin%C3%ADcius-martins-nogueira/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0D1117)](mailto:viniciusnogueiramartins7@gmail.com)
 
 </div>
 
