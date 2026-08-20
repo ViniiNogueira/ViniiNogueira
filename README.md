@@ -23,7 +23,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ViniiNogueira&label=SCANS%20DE%20PERFIL&color=00F5FF&style=for-the-badge&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-B026FF?style=for-the-badge&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-S%C3%A3o%20Paulo%2C%20BR-0FA3FF?style=for-the-badge&labelColor=0D1117)
 
@@ -131,7 +130,7 @@ vinicius@dev-machine:~$ _
 
 <br/>
 
-## REDES SOCIAIS 
+## COntato 
 
 <div align="center">
 
@@ -144,12 +143,10 @@ vinicius@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.co/api?type=waving&color=0:243B55,50:141E30,100:0A0E14&height=140&section=footer" width="100%"/>
-
-<sub>「 Construído com Java, café e algumas noites de `stack trace`. 」</sub>
+<sub>「 Construído com Java, café e algumas noites de stack trace. 」</sub>
 
 <br/>
 
-`© 2026 Vinícius Nogueira — Todos os sistemas operacionais.`
+`"Não perturbe meus círculos" - Arquimedes`
 
 </div>
