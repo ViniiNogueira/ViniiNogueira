@@ -89,23 +89,6 @@ vinicius:
 
 <br/>
 
-## OBJETIVOS ATUAIS 
-
-```bash
-vinicius@dev-machine:~$ cat objetivos.log
-
-[ATIVO]     Conquistar uma vaga de estágio em Java Back-end (ciclo Ago/Set)
-[EM CURSO]  Aprofundar Spring Boot: validação, exceções e boas práticas de DTO
-[EM CURSO]  Evoluir em SQL aplicado a back-end (sem foco em DBA)
-[PLANEJADO] Explorar arquitetura monolito vs. microsserviços na prática
-[PLANEJADO] Fortalecer fundamentos de front-end (JavaScript, HTML, CSS)
-[CONTÍNUO]  Construir portfólio com projetos reais no GitHub
-
-vinicius@dev-machine:~$ _
-```
-
-<br/>
-
 ## GITHUB STATS
 
 <div align="center">
@@ -118,15 +101,7 @@ vinicius@dev-machine:~$ _
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniiNogueira&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=B026FF&point=FFFFFF&area=true&area_color=00F5FF" width="100%"/>
-
 </div>
-
-<br/>
-
-</div>
-
-<br/>
 
 <br/>
 
