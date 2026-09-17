@@ -95,6 +95,8 @@ Estudando: APIs REST • SQL • JPA/Hibernate • Arquitetura de Software
 
 <br/>
 
+![Snake animation](https://raw.githubusercontent.com/ViniiNogueira/ViniiNogueira/output/github-contribution-grid-snake.svg)
+
 <i> "Não perturbe meus círculos" - Arquimedes </i>
 
 </div>
