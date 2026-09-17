@@ -1,53 +1,26 @@
-<!--
-  ============================================================
-  README de perfil GitHub — Vinícius Nogueira
-  Tema: Cyberpunk / HUD futurista (inspirado em JARVIS)
-  ============================================================
-  ANTES DE USAR, substitua os placeholders marcados assim: <SEU_...>
-    - <SEU_EMAIL>            -> seu e-mail
-    - <SEU_LINKEDIN>         -> seu usuário/URL do LinkedIn
-    - <SEU_INSTAGRAM>        -> seu usuário do Instagram (opcional)
-    - <SEU_DISCORD>          -> seu usuário do Discord (opcional)
-  E confira se os nomes dos repositórios na seção "Projetos" batem
-  com os nomes reais no seu GitHub (ajuste os links se precisar).
-  ============================================================
--->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:111827,100:172554&height=230&section=header&text=VIN%C3%8DCIUS%20NOGUEIRA&fontSize=46&fontColor=60A5FA&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT&descAlignY=55&descSize=16&descColor=2DD4BF" width="100%">
+```text
+                                                                
+██╗   ██╗██╗███╗   ██╗██╗ ██████╗██╗██╗   ██╗███████╗    ███╗   ██╗ ██████╗  ██████╗ ██╗   ██╗███████╗██╗██████╗  █████╗ 
+██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝    ████╗  ██║██╔═══██╗██╔════╝ ██║   ██║██╔════╝██║██╔══██╗██╔══██╗
+██║   ██║██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗    ██╔██╗ ██║██║   ██║██║  ███╗██║   ██║█████╗  ██║██████╔╝███████║
+╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║    ██║╚██╗██║██║   ██║██║   ██║██║   ██║██╔══╝  ██║██╔══██╗██╔══██║
+ ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║    ██║ ╚████║╚██████╔╝╚██████╔╝╚██████╔╝███████╗██║██║  ██║██║  ██║
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-<br/>
+ 
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=750&height=90&lines=%3E+boot+sequence+initiated...;%3E+loading+core+modules%3A+java+%7C+spring+%7C+sql;%3E+access+granted+%E2%80%94+welcome%2C+visitor.;%3E+status%3A+ONLINE+%7C+mode%3A+seeking_internship" alt="Typing SVG" />
+Curso: Engenharia de Software — UNICID
+Foco:  Desenvolvimento Back-end com Java & Spring Boot e Segurança
+Estudando: APIs REST • SQL • JPA/Hibernate • Arquitetura de Software
 
-<br/><br/>
-
-![Status](https://img.shields.io/badge/STATUS-ONLINE-B026FF?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-S%C3%A3o%20Paulo%2C%20BR-0FA3FF?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
-<br/>
-
-## SOBRE MIM 
-
-<img align="right" width="260" src="https://raw.githubusercontent.com/gist/ellerbrock/ellerbrock/master/tech.gif" alt="" onerror="this.style.display='none'"/>
-
-```yaml
-vinicius:
-  idade: 19
-  formacao: "Engenharia de Software — Unicid"
-  localizacao: "São Paulo, Brasil"
-  foco: "Desenvolvimento Back-end com Java"
-  metodo: "roadmap.sh (trilha back-end) + Alura + prática guiada por projetos"
-  filosofia: "Aprender construindo, quebrando e entendendo o porquê."
 ```
-
-- Gosto de aprender construindo projetos reais: cadastros, integrações com APIs públicas e pequenos sistemas de back-end.
-- Estudo com apoio de IA como copiloto de arquitetura e revisão de código, não como atalho, mas como acelerador/assistente de entendimento.
-
+ 
 <br/>
+
 
 ## TECH STACK 
 
@@ -122,6 +95,6 @@ vinicius:
 
 <br/>
 
-`"Não perturbe meus círculos" - Arquimedes`
+<i> "Não perturbe meus círculos" - Arquimedes </i>
 
 </div>
