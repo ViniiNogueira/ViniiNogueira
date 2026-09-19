@@ -26,7 +26,7 @@ Estudando: APIs REST • SQL • JPA/Hibernate • Arquitetura de Software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,idea,vscode,postman,html,css,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,c,postgres,mysql,git,github,idea,vscode,postman,html,css,py&theme=dark" />
 
 </div>
 
@@ -34,6 +34,7 @@ Estudando: APIs REST • SQL • JPA/Hibernate • Arquitetura de Software
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00F5FF&labelColor=0D1117)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=00F5FF&labelColor=0D1117)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00F5FF&labelColor=0D1117)
 ![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=00F5FF&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=00F5FF&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00F5FF&labelColor=0D1117)
